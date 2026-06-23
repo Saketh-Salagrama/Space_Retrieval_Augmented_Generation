@@ -1,0 +1,7 @@
+.env
+uploaded.pdf
+faiss_index/
+scraped_data/
+__pycache__/
+*.pyc
+bs4/

@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+streamlit
+requests
+langchain
+langchain-core
+langchain-community
+langchain-google-genai
+langchain-text-splitters
+langchain-ollama
+faiss-cpu
+pypdf
+python-dotenv
+beautifulsoup4
